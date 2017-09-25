@@ -9,6 +9,7 @@ sudo apt-get install curl
 sudo apt-get install git
 git config --global user.email "lucafmcantini@gmail.com"
 git config --global user.name "Luca Cantini"
+git config --global push.default simple
 
 # Spotify
 sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys BBEBDCB318AD50EC6865090613B00F1FD2C19886 0DF731E45CE24F27EEEB1450EFDC8610341D9410

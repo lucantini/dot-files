@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e3cb76f-ba58-425d-959c-6e1ba5574cc8" name="Default" comment="initial commit">
+    <list default="true" id="3e3cb76f-ba58-425d-959c-6e1ba5574cc8" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dotFiles.sh" afterPath="$PROJECT_DIR$/dotFiles.sh" />
     </list>
@@ -20,8 +20,8 @@
       <file leaf-file-name="dotFiles.sh" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dotFiles.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
-              <caret line="59" column="20" lean-forward="false" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
+            <state relative-caret-position="471">
+              <caret line="29" column="8" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -111,10 +111,18 @@
       <updated>1506357002615</updated>
       <workItem from="1506357004583" duration="3332000" />
     </task>
+    <task id="LOCAL-00001" summary="Adds the Clean funcionality">
+      <created>1506362005691</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1506362005691</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3425000" />
+    <option name="totallyTimeSpent" value="3491000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="52" width="1280" height="1028" extended-state="6" />
@@ -145,6 +153,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adds the Clean funcionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adds the Clean funcionality" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -177,8 +189,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dotFiles.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="59" column="20" lean-forward="false" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
+        <state relative-caret-position="471">
+          <caret line="29" column="8" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
           <folding />
         </state>
       </provider>
