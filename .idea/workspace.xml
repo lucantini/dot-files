@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e3cb76f-ba58-425d-959c-6e1ba5574cc8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/settings.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dotFiles.sh" afterPath="$PROJECT_DIR$/dotFiles.sh" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,8 +20,8 @@
       <file leaf-file-name="dotFiles.sh" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dotFiles.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="489">
-              <caret line="33" column="69" lean-forward="false" selection-start-line="33" selection-start-column="69" selection-end-line="33" selection-end-column="69" />
+            <state relative-caret-position="327">
+              <caret line="24" column="30" lean-forward="false" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -69,6 +69,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -81,7 +82,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -112,7 +112,8 @@
       <updated>1506357002615</updated>
       <workItem from="1506357004583" duration="3332000" />
       <workItem from="1506362291512" duration="9000" />
-      <workItem from="1506362369264" duration="388000" />
+      <workItem from="1506362369264" duration="405000" />
+      <workItem from="1506364313101" duration="11000" />
     </task>
     <task id="LOCAL-00001" summary="Adds the Clean funcionality">
       <created>1506362005691</created>
@@ -135,14 +136,21 @@
       <option name="project" value="LOCAL" />
       <updated>1506362157087</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Adds docker-compose install">
+      <created>1506362765664</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1506362765664</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4117000" />
+    <option name="totallyTimeSpent" value="4145000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1919" y="45" width="1282" height="1036" extended-state="6" />
+    <frame x="2004" y="52" width="1282" height="1036" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980111" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -173,13 +181,22 @@
     <MESSAGE value="Adds the Clean funcionality" />
     <MESSAGE value="Add default behaviour to git push" />
     <MESSAGE value="Adds gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adds gitignore" />
+    <MESSAGE value="Adds docker-compose install" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adds docker-compose install" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dotFiles.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dotFiles.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="522">
@@ -192,7 +209,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -208,7 +224,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -238,14 +253,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dotFiles.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="489">
-          <caret line="33" column="69" lean-forward="false" selection-start-line="33" selection-start-column="69" selection-end-line="33" selection-end-column="69" />
+        <state relative-caret-position="327">
+          <caret line="24" column="30" lean-forward="false" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
           <folding />
         </state>
       </provider>
