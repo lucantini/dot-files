@@ -55,3 +55,8 @@ wget https://download-cf.jetbrains.com/webstorm/WebStorm-2017.2.4.tar.gz
 tar -xcf WebStorm-2017.2.4.tar.gz
 cd WebStorm-172.4155.35/bin/
 ./webstorm.sh
+
+# Clean
+sudo rm -rf WebStorm-2017.2.4.tar.gz
+sudo rm -rf google-chrome-stable_current_amd64.deb
+sudo rm -rf slack-desktop-2.8.0-amd64.deb
