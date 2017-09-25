@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e3cb76f-ba58-425d-959c-6e1ba5574cc8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,8 +29,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+            <state relative-caret-position="144">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -127,7 +126,7 @@
       <workItem from="1506364727515" duration="79000" />
       <workItem from="1506370479694" duration="175000" />
       <workItem from="1506370691892" duration="109000" />
-      <workItem from="1506371001751" duration="157000" />
+      <workItem from="1506371001751" duration="264000" />
     </task>
     <task id="LOCAL-00001" summary="Adds the Clean funcionality">
       <created>1506362005691</created>
@@ -185,11 +184,18 @@
       <option name="project" value="LOCAL" />
       <updated>1506370640673</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Changes gitIgnore">
+      <created>1506371166539</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1506371166539</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5055000" />
+    <option name="totallyTimeSpent" value="5162000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1919" y="45" width="1282" height="1036" extended-state="6" />
@@ -228,7 +234,8 @@
     <MESSAGE value="Deletes .idea" />
     <MESSAGE value="Removes ideas and update gitignore" />
     <MESSAGE value="Adds docker group" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adds docker group" />
+    <MESSAGE value="Changes gitIgnore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes gitIgnore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -371,8 +378,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        <state relative-caret-position="144">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
