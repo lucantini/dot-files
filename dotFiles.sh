@@ -25,6 +25,8 @@ apt-cache policy docker-ce
 sudo apt-get install -y docker-ce
 sudo apt-get update
 sudo apt-get install docker-compose
+sudo groupadd docker
+sudo usermod -aG docker $USER
 
 # Guake
 sudo apt-get install guake
