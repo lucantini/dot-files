@@ -13,8 +13,8 @@ echo "${green}Successfully installed Curl!${reset}"
 
 # Git
 sudo apt-get install git
-git config --global user.email "lucafmcantini@gmail.com"
-git config --global user.name "Luca Cantini"
+git config --global user.email $1
+git config --global user.name $2
 git config --global push.default simple
 echo "${green}Successfully installed and configured Git!${reset}"
 
