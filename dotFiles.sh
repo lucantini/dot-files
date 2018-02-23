@@ -58,12 +58,10 @@ echo "${green}Successfully installed UpNext!${reset}"
 # WebStorm
 wget https://download-cf.jetbrains.com/webstorm/WebStorm-2017.3.4.tar.gz
 tar xvfz WebStorm-2017.3.4.tar.gz
-cd WebStorm-173.4548.30/bin/
 echo "${green}Successfully installed WebStorm!${reset}"
-./webstorm.sh &
 
 # Clean
 sudo rm -rf WebStorm-2017.3.4.tar.gz &
 sudo rm -rf google-chrome-stable_current_amd64.deb &
-sudo rm -rf upnext-1.2.14.tar.gz &
+sudo rm -rf upnext-1.2.14.tar.gz?raw=true &
 wait
